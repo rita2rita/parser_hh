@@ -70,7 +70,7 @@ def save_to_csv(job):
     return
 
 
-def ggg():
+def parse():
     items = 20
     jobs = []
     all_vacancy = 0
@@ -100,4 +100,4 @@ def ggg():
     return
 
 
-ggg()
+parse()
